@@ -1,0 +1,12 @@
+C:\Users\Admin\Documents\Projetos\CodeFlix\backend\Codeflix.Catalog\src\Codeflix.Catalog.Domain\bin\Debug\net6.0\Codeflix.Catalog.Domain.deps.json
+C:\Users\Admin\Documents\Projetos\CodeFlix\backend\Codeflix.Catalog\src\Codeflix.Catalog.Domain\bin\Debug\net6.0\Codeflix.Catalog.Domain.dll
+C:\Users\Admin\Documents\Projetos\CodeFlix\backend\Codeflix.Catalog\src\Codeflix.Catalog.Domain\bin\Debug\net6.0\Codeflix.Catalog.Domain.pdb
+C:\Users\Admin\Documents\Projetos\CodeFlix\backend\Codeflix.Catalog\src\Codeflix.Catalog.Domain\obj\Debug\net6.0\Codeflix.Catalog.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Projetos\CodeFlix\backend\Codeflix.Catalog\src\Codeflix.Catalog.Domain\obj\Debug\net6.0\Codeflix.Catalog.Domain.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Projetos\CodeFlix\backend\Codeflix.Catalog\src\Codeflix.Catalog.Domain\obj\Debug\net6.0\Codeflix.Catalog.Domain.AssemblyInfo.cs
+C:\Users\Admin\Documents\Projetos\CodeFlix\backend\Codeflix.Catalog\src\Codeflix.Catalog.Domain\obj\Debug\net6.0\Codeflix.Catalog.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Projetos\CodeFlix\backend\Codeflix.Catalog\src\Codeflix.Catalog.Domain\obj\Debug\net6.0\Codeflix.Catalog.Domain.sourcelink.json
+C:\Users\Admin\Documents\Projetos\CodeFlix\backend\Codeflix.Catalog\src\Codeflix.Catalog.Domain\obj\Debug\net6.0\Codeflix.Catalog.Domain.dll
+C:\Users\Admin\Documents\Projetos\CodeFlix\backend\Codeflix.Catalog\src\Codeflix.Catalog.Domain\obj\Debug\net6.0\refint\Codeflix.Catalog.Domain.dll
+C:\Users\Admin\Documents\Projetos\CodeFlix\backend\Codeflix.Catalog\src\Codeflix.Catalog.Domain\obj\Debug\net6.0\Codeflix.Catalog.Domain.pdb
+C:\Users\Admin\Documents\Projetos\CodeFlix\backend\Codeflix.Catalog\src\Codeflix.Catalog.Domain\obj\Debug\net6.0\ref\Codeflix.Catalog.Domain.dll
